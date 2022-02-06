@@ -1,0 +1,21 @@
+{
+  "name": "hxdzhiewbot",
+  "version": "1.0.0",
+  "description": "© 2021 HxD Service. Всички права са запазени.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "-hxdzhiew#9999",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "https": "^1.0.0",
+    "is-ip": "^3.1.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "xpath": "0.0.32"
+  }
+}
